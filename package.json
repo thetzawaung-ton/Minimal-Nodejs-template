@@ -1,0 +1,29 @@
+{
+  "name": "minimal-nodejs-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thetzawaung-ton/Minimal-Nodejs-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/thetzawaung-ton/Minimal-Nodejs-template/issues"
+  },
+  "homepage": "https://github.com/thetzawaung-ton/Minimal-Nodejs-template#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.29.5",
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.4.0",
+    "globals": "^17.6.0",
+    "jest": "^30.4.2",
+    "prettier": "3.8.3"
+  }
+}
